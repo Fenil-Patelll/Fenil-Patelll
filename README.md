@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">Software Developer | CS Graduate Student @Dalhousie University | EX - System Engineer @TCS<br><br>- 🔭 Actively on the lookout for Co-Op or Full-time positions in the Software Industry.<br>- 📚 Currently exploring field of  Software Development and Cloud Technologies<br>-  ♟️ Enthusiastic chess player and avid problem solver<br>- 📧 Feel free to reach out to me at fenilpatel61@gmail.com. I'm eager to connect, chat about potential prospects, or address any inquiries you might have.</p>
+<p align="left">Software Developer | CS Graduate Student @Dalhousie University | EX - System Engineer @TCS<br><br>- 🔭 Actively on the lookout for Co-Op or Full-time positions in the Software Industry.<br>- 📚 Currently exploring field of  Software Development and Cloud Technologies<br>-  ♟️ Enthusiastic chess player and avid problem solver<br>- 📧 Feel free to reach out to me at <a href="mailto:fenilpatel61@gmail.com">. I'm eager to connect, chat about potential prospects, or address any inquiries you might have.</p>
 
 ###
 
