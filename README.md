@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
+<h1 align="center">Hey There 👋 I'm Fenil Patel</h1>
 
 ###
 
@@ -19,15 +17,11 @@
 
 ###
 
-<h1 align="center">Hey There 👋 I'm Fenil Patel</h1>
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">Software Developer | CS Graduate Student @Dalhousie University | EX - System Engineer @TCS<br><br>- 🔭 Actively on the lookout for Co-Op or Full-time positions in the Software Industry.<br>- 📚 Currently exploring field of  Software Development and Cloud Technologies<br>-  ♟️ Enthusiastic chess player and avid problem solver<br>- 📧 Feel free to reach out to me at <a href="mailto:fenilpatel61@gmail.com">fenilpatel61@gmail.com</a>. I'm eager to connect, chat about potential prospects, or address any inquiries you might have.</p>
+<p align="left">Software Developer | CS Graduate Student @Dalhousie University | EX - System Engineer @TCS<br><br>- 🔭 Actively on the lookout for Co-Op or Full-time positions in the Software Industry.<br>- 📚 Currently exploring field of  Software Development and Cloud Technologies<br>-  ♟️ Enthusiastic chess player and avid problem solver<br>- 📧 Feel free to reach out to me at fenilpatel61@gmail.com. I'm eager to connect, chat about potential prospects, or address any inquiries you might have.</p>
 
 ###
 
