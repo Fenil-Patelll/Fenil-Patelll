@@ -66,7 +66,7 @@
 </div>
 
 ###
-![Snake animation](https://github.com/Fenil-Patelll/Fenil-Patelll/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Fenil-Patelll/Fenil-Patelll/blob/output/snake.svg)
 
 ###
 
