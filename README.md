@@ -66,7 +66,7 @@
 </div>
 
 ###
-![Snake animation](https://github.com/Fenil-Patelll/Fenil-Patelll/blob/output/snake.svg)
+<img src="https://raw.githubusercontent.com/Fenil-Patelll/Fenil-Patelll/output/snake.svg" alt="Snake animation" />
 
 ###
 
