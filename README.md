@@ -67,7 +67,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Fenil-Patelll/Fenil-Patelll/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Fenil-Patelll/Fenil-Patelll/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
 
